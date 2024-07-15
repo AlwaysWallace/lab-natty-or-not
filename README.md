@@ -35,7 +35,7 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Comente sobre o desafio de criar algo 'natty' com IA....
 ```
 
 ### Exemplos e Insigths
